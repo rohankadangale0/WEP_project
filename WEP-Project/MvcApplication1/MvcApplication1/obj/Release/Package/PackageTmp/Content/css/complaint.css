@@ -1,0 +1,54 @@
+﻿body
+{
+  background:  linear-gradient(to top left, #ffffff 0%, #66ccff 100%);
+}  
+
+  .mainform{
+  margin: 50px 180px 50px 180px;
+  padding: 2rem;
+  border: 1px solid rgb(224,224,224) ;
+  border-radius: 15px;
+  box-shadow: 10px 7px 0 rgb(224,224,224);
+  background-color: white;
+  display: flex;
+  flex-direction:column;
+  }
+
+  .header{
+      font-size: 17px;
+      font-family: candara;
+      display: flex-end;
+  }
+
+  input[type=text], select, textarea {
+  display: flex;
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+@media screen and (max-width: 680px) 
+{
+    .header, .mainform, input[type=submit] 
+    {
+      margin: 0px 0px 0px 0px;
+  
+    }
+}
+
+
+.rhidden, .whidden, .ehidden 
+{
+    display: none; 
+}
+
+#map
+{
+    width:  -webkit-fill-available;
+    height: 20rem;
+}

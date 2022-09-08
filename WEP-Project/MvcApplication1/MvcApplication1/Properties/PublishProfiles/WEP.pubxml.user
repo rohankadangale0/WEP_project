@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Anisa\Desktop\Goa University\SY\Sem 4\PL 406 WT\Project\WEP DEPLOY</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>06/04/2022 12:07:02</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Mvc.FixedDisplayModes.dll">
+      <publishTime>06/04/2022 12:07:04</publishTime>
+    </File>
+    <File Include="bin/MvcApplication1.dll">
+      <publishTime>07/08/2022 13:06:01</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>06/04/2022 12:07:02</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>06/04/2022 12:07:04</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>06/04/2022 12:07:02</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>06/04/2022 12:07:04</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>06/04/2022 12:07:04</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>06/04/2022 12:07:02</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>06/04/2022 12:07:02</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>06/04/2022 12:07:02</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>06/04/2022 12:07:02</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>06/04/2022 12:07:02</publishTime>
+    </File>
+    <File Include="Content/assets/img/Developer_Profile/Anis.jpg">
+      <publishTime>06/28/2022 16:22:53</publishTime>
+    </File>
+    <File Include="Content/assets/img/Developer_Profile/pushkar.jpg">
+      <publishTime>06/28/2022 16:22:53</publishTime>
+    </File>
+    <File Include="Content/assets/img/Developer_Profile/Rohan.jpeg">
+      <publishTime>06/28/2022 16:22:53</publishTime>
+    </File>
+    <File Include="Content/assets/img/Developer_Profile/Vaibhav.jpeg">
+      <publishTime>06/28/2022 16:22:53</publishTime>
+    </File>
+    <File Include="Content/assets/img/electricity.png">
+      <publishTime>06/12/2022 16:27:44</publishTime>
+    </File>
+    <File Include="Content/assets/img/header-bg.jpg">
+      <publishTime>06/12/2022 16:27:44</publishTime>
+    </File>
+    <File Include="Content/assets/img/map-image.png">
+      <publishTime>06/12/2022 16:27:44</publishTime>
+    </File>
+    <File Include="Content/assets/img/mapicon.png">
+      <publishTime>06/12/2022 16:27:44</publishTime>
+    </File>
+    <File Include="Content/assets/img/Road.png">
+      <publishTime>06/12/2022 16:27:44</publishTime>
+    </File>
+    <File Include="Content/assets/img/waterdrop.png">
+      <publishTime>06/12/2022 16:27:44</publishTime>
+    </File>
+    <File Include="Content/css/admin_profile.css">
+      <publishTime>06/20/2022 12:29:10</publishTime>
+    </File>
+    <File Include="Content/css/complaint.css">
+      <publishTime>06/21/2022 16:11:46</publishTime>
+    </File>
+    <File Include="Content/css/map.css">
+      <publishTime>06/26/2022 13:25:54</publishTime>
+    </File>
+    <File Include="Content/css/sign_in_up.css">
+      <publishTime>06/28/2022 15:36:43</publishTime>
+    </File>
+    <File Include="Content/css/style.css">
+      <publishTime>06/15/2022 15:25:00</publishTime>
+    </File>
+    <File Include="Content/css/stylemain.css">
+      <publishTime>06/15/2022 15:39:02</publishTime>
+    </File>
+    <File Include="Content/css/userprofile.css">
+      <publishTime>06/16/2022 17:14:16</publishTime>
+    </File>
+    <File Include="Content/css/view_complaintpage.css">
+      <publishTime>06/28/2022 10:44:22</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>06/04/2022 12:06:58</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>06/04/2022 12:07:04</publishTime>
+    </File>
+    <File Include="Script/adminprofile.js">
+      <publishTime>06/20/2022 21:00:32</publishTime>
+    </File>
+    <File Include="Script/Complaint.js">
+      <publishTime>06/22/2022 15:09:14</publishTime>
+    </File>
+    <File Include="Script/DateTest.js">
+      <publishTime>07/07/2022 20:49:50</publishTime>
+    </File>
+    <File Include="Script/MapView.js">
+      <publishTime>07/07/2022 21:15:41</publishTime>
+    </File>
+    <File Include="Script/OldMap.js">
+      <publishTime>06/26/2022 16:18:02</publishTime>
+    </File>
+    <File Include="Script/userprofile.js">
+      <publishTime>06/21/2022 10:22:44</publishTime>
+    </File>
+    <File Include="Script/ViewComplaint.js">
+      <publishTime>06/23/2022 12:17:06</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>07/08/2022 00:18:35</publishTime>
+    </File>
+    <File Include="Views/WEP/Admin/admin_dashboard.aspx">
+      <publishTime>07/03/2022 18:40:49</publishTime>
+    </File>
+    <File Include="Views/WEP/Admin/admin_forgot_password.aspx">
+      <publishTime>07/03/2022 18:41:11</publishTime>
+    </File>
+    <File Include="Views/WEP/Admin/admin_login.aspx">
+      <publishTime>07/03/2022 18:41:50</publishTime>
+    </File>
+    <File Include="Views/WEP/Admin/admin_profile_page.aspx">
+      <publishTime>07/03/2022 18:42:22</publishTime>
+    </File>
+    <File Include="Views/WEP/Admin/admin_signup.aspx">
+      <publishTime>07/03/2022 18:42:53</publishTime>
+    </File>
+    <File Include="Views/WEP/Admin/admin_view_complaint_page.aspx">
+      <publishTime>07/03/2022 18:50:59</publishTime>
+    </File>
+    <File Include="Views/WEP/Admin/admin_view_map.aspx">
+      <publishTime>07/03/2022 18:43:54</publishTime>
+    </File>
+    <File Include="Views/WEP/TestPage.aspx">
+      <publishTime>07/07/2022 11:20:08</publishTime>
+    </File>
+    <File Include="Views/WEP/User/complaint_page.aspx">
+      <publishTime>07/03/2022 18:54:48</publishTime>
+    </File>
+    <File Include="Views/WEP/User/complaint_view_page.aspx">
+      <publishTime>07/03/2022 18:55:01</publishTime>
+    </File>
+    <File Include="Views/WEP/User/forgot_password.aspx">
+      <publishTime>07/03/2022 18:55:11</publishTime>
+    </File>
+    <File Include="Views/WEP/User/login.aspx">
+      <publishTime>07/05/2022 12:51:53</publishTime>
+    </File>
+    <File Include="Views/WEP/User/sign_up.aspx">
+      <publishTime>07/05/2022 12:51:17</publishTime>
+    </File>
+    <File Include="Views/WEP/User/update_complaint.aspx">
+      <publishTime>07/03/2022 18:55:43</publishTime>
+    </File>
+    <File Include="Views/WEP/User/userprofile.aspx">
+      <publishTime>07/03/2022 18:55:52</publishTime>
+    </File>
+    <File Include="Views/WEP/User/viewmap.aspx">
+      <publishTime>07/07/2022 21:17:21</publishTime>
+    </File>
+    <File Include="Views/WEP/view_page.aspx">
+      <publishTime>07/03/2022 18:29:52</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/07/2022 23:59:32</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

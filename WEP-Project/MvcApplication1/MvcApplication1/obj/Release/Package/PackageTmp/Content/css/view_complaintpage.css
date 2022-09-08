@@ -1,0 +1,27 @@
+﻿table 
+{
+
+    background-color: white;
+    border: 1px solid;
+}
+
+td,tr 
+{
+    
+    border: 1px solid;
+}
+
+img 
+{
+    width: 200px;
+}
+
+.container 
+{
+    overflow-x: auto;
+}
+
+.bg 
+{
+    background-color: powderblue;
+}
